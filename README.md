@@ -37,4 +37,4 @@
 <li><b>subscription_fee</b> - стоимость ежемесячного платежа</li>
 </ul>
 
-<a href="https://github.com/Runki84/YP-DS-01-Credit-scoring/blob/main/01-Part-2-Credit-scoring.ipynb">Вторая часть проекта</a>
+[Проект](https://github.com/Runki84/YP-DS-03-Kick-scooter-sharing/blob/main/03-Kick-scooter-sharing.ipynb)
