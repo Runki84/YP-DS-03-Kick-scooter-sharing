@@ -37,4 +37,4 @@
 <li><b>subscription_fee</b> - стоимость ежемесячного платежа</li>
 </ul>
 
-[Проект](https://github.com/Runki84/YP-DS-03-Kick-scooter-sharing/blob/main/03-Kick-scooter-sharing.ipynb)
+[Проект](https://github.com/Runki-DS/YP-DS-03-Kick-scooter-sharing/blob/main/03-Kick-scooter-sharing.ipynb)
